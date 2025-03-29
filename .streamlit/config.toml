@@ -1,7 +1,0 @@
-[server]
-headless = true
-[server]
-headless = true
-enableCORS = false
-port = 8000
-address = "0.0.0.0"
